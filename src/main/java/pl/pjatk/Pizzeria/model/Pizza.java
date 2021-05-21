@@ -1,4 +1,4 @@
-package pl.pjatk.Pizzeria;
+package pl.pjatk.Pizzeria.model;
 
 import java.math.BigDecimal;
 
